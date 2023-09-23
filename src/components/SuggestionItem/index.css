@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.suggestion-item-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  padding: 0px;
+  margin: 5px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+   
+}
+
+.arrow-button {
+  background-color: transparent;
+  border: none;
+}
+.arrow-icon {
+  height: 20px;
+  width: 20px;
+}
